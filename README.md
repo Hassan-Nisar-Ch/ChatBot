@@ -6,8 +6,13 @@ This Android ChatBot app uses the Gemini API to generate responses. It's built w
 
 See the app in action:
 
-![Screenshot 1](screenshots/screenshot1.jpg)
-![Screenshot 2](screenshots/screenshot2.jpg)
+<p align="center">
+  <img src="screenshots/screenshot1.jpg" alt="Screenshot 1" width="300">
+</p>
+
+<p align="center">
+  <img src="screenshots/screenshot2.jpg" alt="Screenshot 2" width="300">
+</p>
 
 ## Getting Gemini API Key
 
