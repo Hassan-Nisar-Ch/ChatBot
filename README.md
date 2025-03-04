@@ -10,6 +10,8 @@ See the app in action:
   <img src="screenshots/screenshot1.jpg" alt="Screenshot 1" width="300">
 </p>
 
+---
+
 <p align="center">
   <img src="screenshots/screenshot2.jpg" alt="Screenshot 2" width="300">
 </p>
