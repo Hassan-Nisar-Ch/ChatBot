@@ -2,6 +2,13 @@
 
 This Android ChatBot app uses the Gemini API to generate responses. It's built with Jetpack Compose and follows the MVVM architecture.
 
+## Screenshots
+
+See the app in action:
+
+![Screenshot 1](screenshots/screenshot1.jpg)
+![Screenshot 2](screenshots/screenshot2.jpg)
+
 ## Getting Gemini API Key
 
 To get your Gemini API key:
